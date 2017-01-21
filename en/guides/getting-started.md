@@ -456,7 +456,6 @@ If you use scoopa around a specific sports event:
 Please check our online storage calculator for estimates of needed space:
 
 [http://www.bestboys.tv/calc/index.php](http://www.bestboys.tv/calc/index.php)
-
  
 <a name="index"></a>
 ## Index
