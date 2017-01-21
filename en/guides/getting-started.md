@@ -153,13 +153,16 @@ When your are finished, choose the “role” of the user:
 
 The levels are
 
-* Admin	
+* **Admin**	
+
 ... An Administrator is allowed to manage the platform: organize folder structure, create users, set read rights.
 
-* User	
+* **User**	
+
 ... A User is invited by an admin. Access only to associated folders/files. Can download high-res and low-res files as well as watch previews. You can have users as “uploaders” in dedicated Folders.
 
-* Guest	
+* **Guest**
+
 ... A Guest is invited by an admin. Access only to associated folders/files. Only allowed to watch previews in browser.
 
 
@@ -250,7 +253,7 @@ Inside your folder you have the following options:
 * Add Folder
 
 ![(KB_pic22.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic22.png)
- 
+
 Press “Edit” and you can enter text in the white fields.
 * You can change the folder’s name
 * You can add text as description of the content
@@ -364,9 +367,11 @@ Scoopa has two main areas to operate and get things done:
 * Users
 
 There are also the areas
+
 * Dashboard
 * Trash
 * Settings
+
 for administration.
 
 You can navigate to these areas on the left side of your platform.
@@ -398,28 +403,29 @@ The storage in scoopa organizes content exactly the same way as your hard disk o
 
 Think about organizing your files section by clever naming (e.g. Year-month-Date_Event_Content) and sorting by folders. If you have a large amount of folders you will see that it’s worth to invest some minutes to think about a structure. Sometimes clients sort like this:
 	
+```php
 2016-09-24
-.Inline-Marathon
-..Trailer
-..Live Recording
-..News
-..Rough Cut
-..Highlights Show
+    Inline-Marathon
+        Trailer
+        Live Recording
+		News
+		Rough Cut
+		Highlights Show
 2016-09-25
-.Marathon
-..Trailer
-..Live Recording
-..News
-..Rough Cut
-..Highlights Show
-
+	Marathon
+		Trailer
+		Live Recording
+		News
+		Rough Cut
+		Highlights Show
+```	
+	
 With this structure you can easily handle the rights of your clients for the content (Who bought which content? Who should get access to which broadcast products?)
 
 Scoopa works with the philosophy to have all folders and files as “watchfolders”. That means you create empty storage and tell the platform what it has to do when the content once is uploaded. (For example: This news item should be send to your client a, b, c but not to d, e, f.)
 
 Note: A User or Guest can only see the folders, files and content he is associated with by Admin. Other folders and files ARE NOT visible to them.
  
-
 Reporting: Do I have feedback of who has downloaded the content?
 
 Scoopa logs every visit and download by user or by content. Just go to the User-Edit page or into FILE page and scroll to the end of the page. Here you can see all logins and actions by user with timestamp.
@@ -437,7 +443,7 @@ If you use scoopa around a specific sports event:
 * If you have live taker on your event: Make videos as “city profile”, “course animation”, trailers etc. available to them via scoopa. They will appreciate this service.
 
 
-*Gigabyte – how to estimate storage for video*
+**Gigabyte – how to estimate storage for video**
 
 Please check our online storage calculator for estimates of needed space:
 
@@ -446,7 +452,6 @@ http://www.bestboys.tv/calc/index.php(http://www.bestboys.tv/calc/index.php)
  
 <a name="index"></a>
 ## Index
-
 
 Term | Explanation
 --- | ---
