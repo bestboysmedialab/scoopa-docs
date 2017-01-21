@@ -144,7 +144,7 @@ This is the first step: Build your list of people called “users” you want to
 Go to the “Users” tab in the menu. Click the blue button “Add User”.
 
 ![(KB_pic12.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic12.png)
- 
+
 The “Add User” form opens. Fill in the requested information about the user. 
 
 ![(KB_pic13.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic13.png)
@@ -265,7 +265,7 @@ Note: These fields are visible to all users with access to this folder.
 Make sure you press “Save” once finished.
 
 ![(KB_pic23.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic23.png)
- 
+
 Scroll down and two lists with checkboxes and your users appear:
 In the left column you can give users the read or download rights (depending on their role).
 In the right column you can allow a user to upload content into this folder.
@@ -274,7 +274,7 @@ Example: Your content is produced by a 3rd party media house and you don’t wan
 The editor needs to be registered as a user as well. Now check the box of the editor in the right column and he is allowed to upload the content into this folder.
 
 ![(KB_pic24.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic24.png)
- 
+
 If you press “Move to Trash” you will delete the folder. (Link zu Trash)
 
 ![(KB_pic25.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic25.png)
@@ -390,8 +390,8 @@ If you are Owner or Admin of the platform you can see your contract details in �
 
 If you want to move a file to another folder press “move” and choose another target folder as the new home of the content. Press “Move File” and the file appears in the new folder.
 
-![(KB_pic39.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic39.png) 
- 
+![(KB_pic39.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic39.png)
+
 **Trash**
 
 In “Trash” you can find your deleted files. All “deleted” files are still save and stored for another 7 days within your trash. You can restore the files in this period. After this time the content in “Trash” will be finally deleted.
@@ -405,6 +405,9 @@ In the files section you can manage your content and create and edit your folder
 The storage in scoopa organizes content exactly the same way as your hard disk on your computer does.
 
 Think about organizing your files section by clever naming (e.g. Year-month-Date_Event_Content) and sorting by folders. If you have a large amount of folders you will see that it’s worth to invest some minutes to think about a structure. Sometimes clients sort like this:
+   
+      
+      
 
 
     2016-09-24
@@ -422,7 +425,9 @@ Think about organizing your files section by clever naming (e.g. Year-month-Date
         Rough Cut
         Highlights Show
 	
-	
+
+   
+   	
 With this structure you can easily handle the rights of your clients for the content (Who bought which content? Who should get access to which broadcast products?)
 
 Scoopa works with the philosophy to have all folders and files as “watchfolders”. That means you create empty storage and tell the platform what it has to do when the content once is uploaded. (For example: This news item should be send to your client a, b, c but not to d, e, f.)
@@ -450,7 +455,7 @@ If you use scoopa around a specific sports event:
 
 Please check our online storage calculator for estimates of needed space:
 
-http://www.bestboys.tv/calc/index.php(http://www.bestboys.tv/calc/index.php)
+![http://www.bestboys.tv/calc/index.php](http://www.bestboys.tv/calc/index.php)
 
  
 <a name="index"></a>
