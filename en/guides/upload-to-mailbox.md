@@ -11,10 +11,10 @@ Or if you want to grant a user the right to upload something yet unknown. (e.g. 
 
 Any User who has been granted the right to upload to his mailbox can use this feature.
 
-[![User-Settings](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![User-Settings](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/user-settings_small.jpg)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/user-settings.jpg)
 
 The Admin/Owner can browse to the folder "Mailboxes" in order to see all the files any user has uploaded. From there the Admin/Owner can move the file
 to any location on the platform. The file is then not in the user's mailbox anymore.
 
-![Mailbox Video](https://cloud.githubusercontent.com/assets/2829600/4432292/c10da636-468c-11e4-9ed9-dac778a15cd5.PNG)
+![Mailbox Video](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/upload_to_mailbox_6fps_small.gif)
 
