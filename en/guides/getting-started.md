@@ -403,7 +403,7 @@ The storage in scoopa organizes content exactly the same way as your hard disk o
 
 Think about organizing your files section by clever naming (e.g. Year-month-Date_Event_Content) and sorting by folders. If you have a large amount of folders you will see that it’s worth to invest some minutes to think about a structure. Sometimes clients sort like this:
 	
-```php
+```
 2016-09-24
   Inline-Marathon
     Trailer
@@ -418,7 +418,6 @@ Think about organizing your files section by clever naming (e.g. Year-month-Date
     News
     Rough Cut
     Highlights Show
-    
 ```	
 	
 With this structure you can easily handle the rights of your clients for the content (Who bought which content? Who should get access to which broadcast products?)
