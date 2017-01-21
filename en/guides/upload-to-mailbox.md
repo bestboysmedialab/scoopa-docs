@@ -1,4 +1,4 @@
-## Description
+### Description
 
 The "Mailbox"-Feature allows a (otherwise) normal user to upload content to the platform.
 
@@ -7,7 +7,7 @@ This Content is visible only to him and the platform admin or owner.
 This is particularly useful for usecases where it is not yet know in which folder the content has to go.
 Or if you want to grant a user the right to upload something yet unknown. (e.g. EB-Teams)
 
-## Usage
+### Usage
 
 Any User who has been granted the right to upload to his mailbox can use this feature.
 
