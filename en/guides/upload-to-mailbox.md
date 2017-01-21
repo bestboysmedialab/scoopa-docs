@@ -14,7 +14,7 @@ Or if you want to grant a user the right to upload something yet unknown. (e.g. 
 
 Any User who has been granted the right to upload to his mailbox can use this feature.
 
-[![User-Settings](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/user-settings_small.jpg)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/user-settings.jpg)
+![User-Settings](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/user-settings-mailbox-6fps_small.gif)
 
 The Admin/Owner can browse to the folder "Mailboxes" in order to see all the files any user has uploaded. From there the Admin/Owner can move the file
 to any location on the platform. The file is then not in the user's mailbox anymore.
