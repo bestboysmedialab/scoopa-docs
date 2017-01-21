@@ -405,19 +405,20 @@ Think about organizing your files section by clever naming (e.g. Year-month-Date
 	
 ```php
 2016-09-24
-    Inline-Marathon
-        Trailer
-        Live Recording
-		News
-		Rough Cut
-		Highlights Show
+  Inline-Marathon
+    Trailer
+    Live Recording
+    News
+    Rough Cut
+    Highlights Show
 2016-09-25
-	Marathon
-		Trailer
-		Live Recording
-		News
-		Rough Cut
-		Highlights Show
+  Marathon
+    Trailer
+    Live Recording
+    News
+    Rough Cut
+    Highlights Show
+    
 ```	
 	
 With this structure you can easily handle the rights of your clients for the content (Who bought which content? Who should get access to which broadcast products?)
