@@ -418,7 +418,8 @@ Think about organizing your files section by clever naming (e.g. Year-month-Date
     News
     Rough Cut
     Highlights Show
-```	
+```  
+	
 	
 With this structure you can easily handle the rights of your clients for the content (Who bought which content? Who should get access to which broadcast products?)
 
