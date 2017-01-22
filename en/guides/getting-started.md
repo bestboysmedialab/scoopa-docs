@@ -18,7 +18,7 @@ Distribution or sharing of high-resolution video or large files doesn’t need t
 <a name="quick-start"></a>
 ## Quick Start: The workflow of scoopa
 
-Scoopa is build to have a huge impact on the day-to-day work at broadcasters, media companies, production houses, event organizers, TV rights distributors and marketing firms. Wherever high-resolution videos need to be transferred from A to B, C, D. Wherever people located on another place on the globe need access 365/7/24 – as fast as possible, as easy as possible but still for a very competitive budget!
+scoopa is build to have a huge impact on the day-to-day work at broadcasters, media companies, production houses, event organizers, TV rights distributors and marketing firms. Wherever high-resolution videos need to be transferred from A to B, C, D. Wherever people located on another place on the globe need access 365/7/24 – as fast as possible, as easy as possible but still for a very competitive budget!
 
 We from scoopa believe that it is best to send video content – e.g. the “master-copy” - only ONCE into the cloud. Just one upload for ALL TIME. An upload needs resources: an internet connection, huge bandwidth, time and someone to manage. Why doing this more than once? If you follow this workflow idea you can “send” largest files from your mobile phone. You just need to give access to a file and do not have to upload it again. This is 2017…
 
@@ -33,7 +33,7 @@ If it is uploaded you have the following advantages:
 <a name="your-computer"></a>
 ## On your computer
 
-Scoopa is a web-based application that works in most web browsers. This means you don’t need to download or install any new software on your computer. To make sure that scoopa works properly in your browser keep your system and your browser up-to-date
+scoopa is a web-based application that works in most web browsers. This means you don’t need to download or install any new software on your computer. To make sure that scoopa works properly in your browser keep your system and your browser up-to-date
 
 System Requirements:
 
@@ -50,36 +50,33 @@ System Requirements:
 <a name="setup-platform"></a>
 ## How to setup your platform
 
-Go to www.scoopa.com(https://scoopa.com) and scroll down towards “Try scoopa free of charge”. Click the button “START FREE TRIAL”.
+Go to [www.scoopa.com](https://scoopa.com) and scroll down towards “Try scoopa free of charge”. Click the button “START FREE TRIAL”.
 
-![(KB_pic1.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic1.png)
-
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic1.png" class="lightbox">![(KB_pic1.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic1_small.jpg)</a>
 
 ### 1. Step: Enter your email address in the required field and click “Continue”. 
 
 Note: Be aware that this email address will be the contact email for the contract and communication with scoopa.
  
-![(KB_pic2.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic2.png)
-
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic2.png" class="lightbox">![(KB_pic2.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic2_small.jpg)</a>
 
 ### 2. Step: Decide about the web address (URL) of your scoopa platform! 
 
 This page will be a sub-domain to the scoopa website:
 e.g. abc-company.scoopa.com OR mediapool-xy-name-of-event.scoopa.com etc.
 
-![(KB_pic3.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic3.png)
-
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic3.png" class="lightbox">![(KB_pic3.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic3_small.jpg)</a>
 
 ### 3. Step: Your contact details
 
 Please tell us the name of your company as well as your first and last name and click the boxes for accepting our “Terms of Service” (Link), “Service Level Agreement” (Link) “Privacy Policy” (Link) and press “Sign Up”.
 
-![(KB_pic4.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic4.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic4.png" class="lightbox">![(KB_pic4.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic4_small.jpg)</a>
  
  
 It’s done. To finish setup, check your emails and set your password.
 
-![(KB_pic5.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic5.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic5.png" class="lightbox">![(KB_pic5.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic5_small.jpg)</a>
  
 
 ### 4. Step: Verify your email address
@@ -92,14 +89,14 @@ Please click the blue button “Set Password” in the email.
 
 If you’re having trouble clicking the "Set Password" button, copy and paste the URL below into your web browser:
  
-![(KB_pic6.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic6.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic6.png" class="lightbox">![(KB_pic6.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic6_small.jpg)</a>
  
 
 ### 5. Step: Choose your password 
 
 Important: Use at least 8 characters, upper & lowercase letters & one number.
 
-![(KB_pic7.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic7.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic7.png" class="lightbox">![(KB_pic7.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic7_small.jpg)</a>
 
 Whoop! Whoop! It’s already done – you’ve setup your own highspeed cloud platform!
 
@@ -111,7 +108,7 @@ Now you can notice your domain-name in the browser, which is your chosen name (h
 
 Note: Wouldn’t it be nice if the platform refers to your company’s branding and corporate identity? We offer a custom branding (background, logos, claims) as option. Please contact us at contact@scoopa.com.
 
-![(KB_pic8.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic8.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic8.png" class="lightbox">![(KB_pic8.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic8_small.jpg)</a>
 
 The dashboard helps you to personalize your platform. 
 
@@ -121,7 +118,7 @@ Press the first red button “Do it now” to set a platform name for your event
 
 The following page opens:
  
-![(KB_pic9.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic9.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic9.png" class="lightbox">![(KB_pic9.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic9_small.jpg)</a>
 
 Fill in the fields as required. 
 
@@ -129,9 +126,9 @@ Fill in the fields as required.
 
 As “Custom Link in Footer” you can enter the URL of your companies homepage. With “Custom Link Name in Footer” you can just give it another name to appear in the footer of your platform (e.g. “scoopa homepage” for http://www.scoopa.com). Click “Save”!
 
-![(KB_pic10.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic10.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic10.png" class="lightbox">![(KB_pic10.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic10_small.jpg)</a>
 
-![(KB_pic11.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic11.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic11.png" class="lightbox">![(KB_pic11.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic11_small.jpg)</a>
 
 Green light – your scoopa platform is fully operational!
 
@@ -143,11 +140,11 @@ This is the first step: Build your list of people called “users” you want to
 
 Go to the “Users” tab in the menu. Click the blue button “Add User”.
 
-![(KB_pic12.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic12.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic12.png" class="lightbox">![(KB_pic12.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic12_small.jpg)</a>
 
 The “Add User” form opens. Fill in the requested information about the user. 
 
-![(KB_pic13.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic13.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic13.png" class="lightbox">![(KB_pic13.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic13_small.jpg)</a>
 
 When your are finished, choose the “role” of the user:
 
@@ -173,16 +170,16 @@ Click “Save”.
  
 The User receives an automated email-notification “Welcome!”. 
 
-![(KB_pic14.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic14.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic14.png" class="lightbox">![(KB_pic14.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic14_small.jpg)</a>
 
 The user needs to set his password by clicking the blue button in the email.
 Important: at least 8 characters, upper & lowercase letters, one number
 
-![(KB_pic15.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic15.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic15.png" class="lightbox">![(KB_pic15.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic15_small.jpg)</a>
 
 This list in the user section is only visible to admin-level. It is your global directory of your users (in fact your co-workers, suppliers and clients).
 
-![(KB_pic16.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic16.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic16.png" class="lightbox">![(KB_pic16.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic16_small.jpg)</a>
 
 IMPORTANT: The new registered user will only have access to folders you gave allowance to by checking the box (see “How to create and manage files”).
 
@@ -192,11 +189,11 @@ Move your mouse over a user. It highlights the user and two options appear on th
 * Edit
 * Move to trash
 
-![(KB_pic17.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic17.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic17.png" class="lightbox">![(KB_pic17.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic17_small.jpg)</a>
 
 Click the user. The “Edit User” window opens: 
 
-![(KB_pic18.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic18.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic18.png" class="lightbox">![(KB_pic18.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic18_small.jpg)</a>
 
 You can change the settings, the “role” and you can send a new password (if the user lost his own password). 
 
@@ -204,7 +201,7 @@ Scroll down the page:
 
 Here is the area where you can bring users and folders together. Here you can manage the read and download rights of your users. 
 
-![(KB_pic19.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic19.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic19.png" class="lightbox">![(KB_pic19.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic19_small.jpg)</a>
 
 **Associated folders**
 
@@ -228,11 +225,11 @@ Make sure you press “Save” once finished.
 
 In the “Files” section you manage and structure your content. You can create folders and manage their rights.
 
-![(KB_pic20.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic20.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic20.png" class="lightbox">![(KB_pic20.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic20_small.jpg)</a>
 
 Press the Button “Add Folder” on the top of the page. The following page appears:
 
-![(KB_pic21.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic21.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic21.png" class="lightbox">![(KB_pic21.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic21_small.jpg)</a>
 
 Give your folder a name and press “Save”. You can also decide if this folder should send “Notification-Emails” – what is that?
 
@@ -252,7 +249,7 @@ Inside your folder you have the following options:
 * Add File
 * Add Folder
 
-![(KB_pic22.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic22.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic22.png" class="lightbox">![(KB_pic22.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic22_small.jpg)</a>
 
 Press “Edit” and you can enter text in the white fields.
 
@@ -264,7 +261,7 @@ Note: These fields are visible to all users with access to this folder.
 
 Make sure you press “Save” once finished.
 
-![(KB_pic23.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic23.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic23.png" class="lightbox">![(KB_pic23.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic23_small.jpg)</a>
 
 Scroll down and two lists with checkboxes and your users appear:
 In the left column you can give users the read or download rights (depending on their role).
@@ -273,11 +270,11 @@ In the right column you can allow a user to upload content into this folder.
 Example: Your content is produced by a 3rd party media house and you don’t want to give the full Admin rights to the editor. In this case you create a folder and check the box with associated users (who will receive the notification email and have access to the folder). 
 The editor needs to be registered as a user as well. Now check the box of the editor in the right column and he is allowed to upload the content into this folder.
 
-![(KB_pic24.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic24.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic24.png" class="lightbox">![(KB_pic24.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic24_small.jpg)</a>
 
 If you press “Move to Trash” you will delete the folder. (Link zu Trash)
 
-![(KB_pic25.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic25.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic25.png" class="lightbox">![(KB_pic25.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic25_small.jpg)</a>
 
 
  
@@ -294,7 +291,7 @@ You do not need to upload now. If you just want to prepare a file and associate 
 
 If the content is ready for upload click “Choose File(s)”
  
-![(KB_pic26.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic26.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic26.png" class="lightbox">![(KB_pic26.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic26_small.jpg)</a>
 
 Note: The philosophy of scoopa follows the idea to name and structure your files by the content – not by the destination or your users!
 
@@ -302,27 +299,27 @@ If you do it like recommended, your content needs to be uploaded only once! In a
 
 So never create a folder e.g. “news for BBC” but better e.g. “2016-09-25_Berlin Marathon_Broadcast News_english VO”. Then you only tick a box next to the user you want to give rights.
 
-Upload your content as high-resolution in broadcast quality. Scoopa creates the low resolution preview (also ready for download) automatically! All known codecs are possible. The low-res is H.264. 
+Upload your content as high-resolution in broadcast quality. scoopa creates the low resolution preview (also ready for download) automatically! All known codecs are possible. The low-res is H.264. 
 
 Double-click on the file on your desktop or mark several files if you want to upload more than one file.
 
-![(KB_pic27.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic27.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic27.png" class="lightbox">![(KB_pic27.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic27_small.jpg)</a>
 
-![(KB_pic28.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic28.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic28.png" class="lightbox">![(KB_pic28.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic28_small.jpg)</a>
 
 The file is uploading to the data centre. If you want to manage other users, folders or files you can click “Continue in new tab” to proceed. 
 
 **DON’T CLOSE THIS TAP IN YOUR BROWSER, AS THAT ACTION WILL STOP THE UPLOAD.**
 
-![(KB_pic29.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic29.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic29.png" class="lightbox">![(KB_pic29.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic29_small.jpg)</a>
 
 If you upload several files at the same time you will see a different window:
  
-![(KB_pic30.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic30.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic30.png" class="lightbox">![(KB_pic30.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic30_small.jpg)</a>
 
 The uploaded files will appear immediately in the dedicated folder:
 
-![(KB_pic31.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic31.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic31.png" class="lightbox">![(KB_pic31.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic31_small.jpg)</a>
 
 Move your mouse over a file. It highlights the file and three options appear on the right:
 
@@ -330,7 +327,7 @@ Move your mouse over a file. It highlights the file and three options appear on 
 * Edit
 * Move to Trash
  
-![(KB_pic32.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic32.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic32.png" class="lightbox">![(KB_pic32.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic32_small.jpg)</a>
 
 Click on a file. 
 
@@ -341,30 +338,30 @@ There are two blue download buttons:
 * “Download” (your file exactly as uploaded)
 * “Download Preview” (the lower resolution video from the web viewer)
 
-![(KB_pic33.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic33.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic33.png" class="lightbox">![(KB_pic33.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic33_small.jpg)</a>
 
 Scroll down. Below the web player you can see the “Analytics” - the history of actions logged for this folder.
  
 In “Edit File” you can change the filename and add a description or copyright text. 
 You can add content keywords as well as tags. These fields are searchable.
 
-![(KB_pic34.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic34.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic34.png" class="lightbox">![(KB_pic34.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic34_small.jpg)</a>
 
 Keywords & Tags appear in the asset overview:
 You can search for keywords and tags via the global search. The search function is located in the header of the platform. This is a powerful tool to find content as fast as possible.
  
-![(KB_pic35.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic35.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic35.png" class="lightbox">![(KB_pic35.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic35_small.jpg)</a>
 
 Press the button “Show Asset Details” and you will see all technical metadata around your uploaded video file. These are automatically generated during upload.
 
 Note: During the upload scoopa is doing a Cyclic Redundancy Check (CRC). This is an error-detecting code. If the video file appears as preview it is checked and the asset is exactly the same file as it was on the hard disc of the uploader.
 
-![(KB_pic36.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic36.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic36.png" class="lightbox">![(KB_pic36.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic36_small.jpg)</a>
  
 <a name="admin"></a>
 ## Manage your platform as Admin
 
-Scoopa has two main areas to operate and get things done:
+scoopa has two main areas to operate and get things done:
 
 * Files
 * Users
@@ -379,24 +376,24 @@ for administration.
 
 You can navigate to these areas on the left side of your platform.
 
-![(KB_pic37.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic37.png) 
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic37.png" class="lightbox">![(KB_pic37.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic37_small.jpg)</a>
 
 If you are Owner or Admin of the platform you can see your contract details in “Settings” / “Subscription”.
 
-![(KB_pic38.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic38.png) 
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic38.png" class="lightbox">![(KB_pic38.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic38_small.jpg)</a>
  
 
 **Move Files**
 
 If you want to move a file to another folder press “move” and choose another target folder as the new home of the content. Press “Move File” and the file appears in the new folder.
 
-![(KB_pic39.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic39.png)
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic39.png" class="lightbox">![(KB_pic39.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic39_small.jpg)</a>
 
 **Trash**
 
 In “Trash” you can find your deleted files. All “deleted” files are still save and stored for another 7 days within your trash. You can restore the files in this period. After this time the content in “Trash” will be finally deleted.
 
-![(KB_pic40.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic40.png) 
+<a href="https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic40.png" class="lightbox">![(KB_pic40.png)](https://github.com/bestboysmedialab/scoopa-docs/raw/master/ressources/KB_pic40_small.jpg)</a> 
  
 <a name="file-organisation"></a>
 ## A short Guido to file organisation
@@ -430,13 +427,13 @@ Think about organizing your files section by clever naming (e.g. Year-month-Date
    	
 With this structure you can easily handle the rights of your clients for the content (Who bought which content? Who should get access to which broadcast products?)
 
-Scoopa works with the philosophy to have all folders and files as “watchfolders”. That means you create empty storage and tell the platform what it has to do when the content once is uploaded. (For example: This news item should be send to your client a, b, c but not to d, e, f.)
+scoopa works with the philosophy to have all folders and files as “watchfolders”. That means you create empty storage and tell the platform what it has to do when the content once is uploaded. (For example: This news item should be send to your client a, b, c but not to d, e, f.)
 
 Note: A User or Guest can only see the folders, files and content he is associated with by Admin. Other folders and files ARE NOT visible to them.
  
 Reporting: Do I have feedback of who has downloaded the content?
 
-Scoopa logs every visit and download by user or by content. Just go to the User-Edit page or into FILE page and scroll to the end of the page. Here you can see all logins and actions by user with timestamp.
+scoopa logs every visit and download by user or by content. Just go to the User-Edit page or into FILE page and scroll to the end of the page. Here you can see all logins and actions by user with timestamp.
 
 
 **Lessons Learned:**
