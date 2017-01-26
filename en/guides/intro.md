@@ -7,6 +7,6 @@ We recommend you to start with our ["Getting started"](/guides/getting-started) 
 
 If you feel that a guide is missing or you have a question that is not answered here - please get in contact:
 
-fon: +49 221 337 44 73
+fon: +49 221 337 44 71
 
 Mail: [contact@scoopa.com](mailto:contact@scoopa.com)
